@@ -1,5 +1,4 @@
 import math
-import numpy as np
 import scipy.integrate as integrate
 from prettytable import PrettyTable
 
